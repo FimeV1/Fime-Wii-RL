@@ -424,7 +424,7 @@ class DolphinInstance:
 
         self.frames_since_chkpt = 0
 
-        self.num_checkpoints_per_lap = 10  # 3 laps total
+        self.num_checkpoints_per_lap = 20  # 3 laps total
         self.checkpoints = []
         self.current_checkpoint = 0
 
