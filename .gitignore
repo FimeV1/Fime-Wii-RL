@@ -9673,3 +9673,5 @@ instance_info/script_pid3.txt
 shared_value.txt
 shared_site.txt
 .gitignore
+scripts/__pycache__/common.cpython-312.pyc
+scripts/__pycache__/common.cpython-312.pyc
